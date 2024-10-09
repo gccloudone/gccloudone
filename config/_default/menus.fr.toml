@@ -1,0 +1,19 @@
+############# French navigation ##############
+
+# main menu
+[[main]]
+name = "GC Cloud One"
+url = "/"
+weight = 1
+identifier = "acceuil"
+
+[[main]]
+name = "Contactez-nous"
+url = "/contact"
+weight = 4
+
+[[main]]
+name = "Participez"
+url = "/get-involved"
+weight = 4
+
